@@ -2,6 +2,7 @@
 
 # Contributors
 
+-[@charan-web](https://github.com/charan-web)
 -[@sankalpdass](https://github.com/sankalpdass)
 
 -[@haobrien](https://github.com/haobrien)
